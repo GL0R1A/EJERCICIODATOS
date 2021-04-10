@@ -1,0 +1,10 @@
+C:\Users\mita\Desktop\nombre1\nombre1\obj\Debug\nombre1.csprojAssemblyReference.cache
+C:\Users\mita\Desktop\nombre1\nombre1\obj\Debug\nombre1.Form1.resources
+C:\Users\mita\Desktop\nombre1\nombre1\obj\Debug\nombre1.Properties.Resources.resources
+C:\Users\mita\Desktop\nombre1\nombre1\obj\Debug\nombre1.csproj.GenerateResource.cache
+C:\Users\mita\Desktop\nombre1\nombre1\obj\Debug\nombre1.csproj.CoreCompileInputs.cache
+C:\Users\mita\Desktop\nombre1\nombre1\bin\Debug\nombre1.exe.config
+C:\Users\mita\Desktop\nombre1\nombre1\bin\Debug\nombre1.exe
+C:\Users\mita\Desktop\nombre1\nombre1\bin\Debug\nombre1.pdb
+C:\Users\mita\Desktop\nombre1\nombre1\obj\Debug\nombre1.exe
+C:\Users\mita\Desktop\nombre1\nombre1\obj\Debug\nombre1.pdb
